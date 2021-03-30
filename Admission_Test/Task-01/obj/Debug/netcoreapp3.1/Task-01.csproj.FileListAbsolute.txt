@@ -1,0 +1,13 @@
+E:\CSharp\Admission\Admission-Test\Admission_Test\Task-01\bin\Debug\netcoreapp3.1\Task-01.exe
+E:\CSharp\Admission\Admission-Test\Admission_Test\Task-01\bin\Debug\netcoreapp3.1\Task-01.deps.json
+E:\CSharp\Admission\Admission-Test\Admission_Test\Task-01\bin\Debug\netcoreapp3.1\Task-01.runtimeconfig.json
+E:\CSharp\Admission\Admission-Test\Admission_Test\Task-01\bin\Debug\netcoreapp3.1\Task-01.runtimeconfig.dev.json
+E:\CSharp\Admission\Admission-Test\Admission_Test\Task-01\bin\Debug\netcoreapp3.1\Task-01.dll
+E:\CSharp\Admission\Admission-Test\Admission_Test\Task-01\bin\Debug\netcoreapp3.1\Task-01.pdb
+E:\CSharp\Admission\Admission-Test\Admission_Test\Task-01\obj\Debug\netcoreapp3.1\Task-01.csprojAssemblyReference.cache
+E:\CSharp\Admission\Admission-Test\Admission_Test\Task-01\obj\Debug\netcoreapp3.1\Task-01.AssemblyInfoInputs.cache
+E:\CSharp\Admission\Admission-Test\Admission_Test\Task-01\obj\Debug\netcoreapp3.1\Task-01.AssemblyInfo.cs
+E:\CSharp\Admission\Admission-Test\Admission_Test\Task-01\obj\Debug\netcoreapp3.1\Task-01.csproj.CoreCompileInputs.cache
+E:\CSharp\Admission\Admission-Test\Admission_Test\Task-01\obj\Debug\netcoreapp3.1\Task-01.dll
+E:\CSharp\Admission\Admission-Test\Admission_Test\Task-01\obj\Debug\netcoreapp3.1\Task-01.pdb
+E:\CSharp\Admission\Admission-Test\Admission_Test\Task-01\obj\Debug\netcoreapp3.1\Task-01.genruntimeconfig.cache
